@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263927735447",
+    "project_id": "itutor-9bba2",
+    "storage_bucket": "itutor-9bba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263927735447:android:647c6a05af7c0e0fe235d2",
+        "android_client_info": {
+          "package_name": "com.example.itutor1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSEmT1U4GdOQt-tSvTdPZ9HwXLhKhmII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
